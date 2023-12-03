@@ -1,0 +1,14 @@
+.show {
+    text-decoration: none;
+    font-family: Comfortaa;
+    font-size: 20px;
+    transition: 0.3s;
+    border: 1px solid #EA4E1E;
+    color: black;
+    padding: 5px 15px 5px 15px;
+}
+
+.show:hover {
+    background-color: #EA4E1E;
+    transition: 0.3s;
+}

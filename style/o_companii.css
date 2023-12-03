@@ -1,0 +1,72 @@
+.assortiment {
+    display: flex;
+    flex-direction: row;
+}
+
+.block-tovar {
+    padding-right: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.form {
+    text-align: center;
+}
+
+.block {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.block-img img {
+    width: 20vw;
+    height: auto;
+    padding-left: 70px;
+}
+
+.form-inp {
+    border-radius: 5px;
+    border-color: coral;
+    width: 25vw;
+    height: 5vh;
+    font-family: Comfortaa;
+}
+
+.form-inp-2 {
+    border-radius: 5px;
+    border-color: coral;
+    width: 25vw;
+    height: 5vh;
+    font-family: Comfortaa;
+}
+
+.batton {
+    border-radius: 5px;
+    border: none;
+    background-color: #0779BA;
+    transition: 0.6s;
+    width: 10vw;
+    height: 5vh;
+    font-family: Play;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.batton:hover {
+    background-color: #EA4E1E;
+    transition: 0.6s;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.pochta,
+.urDannai {
+    padding-left: 100px;
+}

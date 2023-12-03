@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+.form-inp {
+    border-radius: 5px;
+    border-color: coral;
+    width: 25vw;
+    height: 5vh;
+    font-family: Comfortaa;
+}
+
+.batton {
+    border-radius: 5px;
+    border: none;
+    background-color: #0779BA;
+    transition: 0.6s;
+    width: 10vw;
+    height: 5vh;
+    font-family: Play;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.batton:hover {
+    background-color: #EA4E1E;
+    transition: 0.6s;
+}
+
+.text-align-reg {
+    text-align: center;
+}

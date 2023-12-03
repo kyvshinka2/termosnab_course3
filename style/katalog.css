@@ -1,0 +1,61 @@
+img {
+	height: auto;
+	max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.product {
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #c0c0c0;
+	width: 200px;
+    height: auto;
+	overflow: hidden;
+	padding: 25px 15px;
+	position: relative;
+	text-align: center;
+	transition: all 0.5s ease 0s;
+	margin-bottom: 20px;
+	align-items: center;
+}
+
+.product:hover {
+	box-shadow: 0 0 16px #EA4E1E;
+}
+.product-img {
+	height: 200px;
+}
+
+.product-title a {
+	color: #000;
+	font-weight: 500;
+	text-transform: uppercase;
+    text-decoration: none;
+    font-family: Play;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+	width: 100%;
+	/* выравнивание блоков */
+	justify-content: space-around;
+}
+
+.product-Price {
+	color: #0779BA;
+	font-weight: 600;
+}
+
+.to-cart {
+	font-family: Comfortaa;
+	background-color: #EA4E1E;
+	color: #fff;
+	border: none;
+	padding: 5px 15px 5px 15px;
+	transition: 0.3s;
+}
+
+.to-cart:hover {
+	background-color: #7e1f03;
+	transition: 0.3s;
+}

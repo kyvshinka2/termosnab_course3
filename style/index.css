@@ -1,0 +1,64 @@
+/* блок кто мы? */
+.who-me-div {
+    display: flex;
+    flex-direction: row; 
+}
+
+.block-mar {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 15vw;
+    height: auto;
+    padding-left: 15px;
+}
+
+h1 {
+    font-family: Play;
+    font-size: 30px;
+}
+
+p {
+    font-family: Comfortaa;
+    font-size: 18px;
+}
+
+.sertificat {
+    width: auto;
+    height: 75vh;
+}
+
+/* второй блок почему мы? */
+.why-me {
+    display: flex;
+    flex-direction: row; 
+}
+
+.vid-block-2 {
+    width: auto;
+    height: 65vh;
+}
+
+.text-why {
+    padding-left: 40px
+}
+
+.text-why h1 {
+    margin-top: 5px;
+}
+
+.a-text {
+    text-decoration: none;
+    color: #CC0000;
+}
+
+/* блок с картой */
+.karta {
+    text-align: center;
+}
+
+.karta h1 {
+    margin-top: 0;
+}

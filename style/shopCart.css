@@ -1,0 +1,21 @@
+.sum-p {
+    font-family: Comfortaa;
+    font-size: 18px;
+}
+
+.katalog-a {
+    color: #EA4E1E;
+    font-family: Comfortaa;
+}
+
+.form {
+    text-align: center;
+    padding: 15px;
+    width: fit-content;
+}
+
+.form-align {
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
